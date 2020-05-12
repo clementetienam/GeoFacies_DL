@@ -11,6 +11,13 @@ Specifically, we use a generative networks and the ensemble smoother with multip
 * [**Generative adversarial networks with Encoder and Wasserstein Loss**]
 * [**Auto-Encoding Generative Adversarial Networks (AlphaGans)**]
 * [**Cycle GANs With PCA**]
+## Requirements File
+All requirements to run this repository ara in requirements.txt file,
+To install, execute
+
+```bash
+pip install -r requirements.txt
+```
 
 ## DataSet
 
