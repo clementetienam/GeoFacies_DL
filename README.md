@@ -131,4 +131,15 @@ author = "Smith W.A. Canchumuni and Alexandre A. Emerick and Marco Aurélio C. P
 <a href="https://www.sciencedirect.com/science/article/pii/S0098300412000994" rel="nofollow">https://www.sciencedirect.com/science/article/pii/S0098300412000994</a>
 
 
+```text
+@misc{canchumuni2020recent,
+    title={Recent Developments Combining Ensemble Smoother and Deep Generative Networks for Facies History Matching},
+    author={Smith W. A. Canchumuni and Jose D. B. Castro and Júlia Potratz and Alexandre A. Emerick and Marco Aurelio C. Pacheco},
+    year={2020},
+    eprint={2005.10638},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
+```
+<a href="https://arxiv.org/abs/2005.10638" rel="nofollow">https://arxiv.org/abs/2005.10638</a>
 
